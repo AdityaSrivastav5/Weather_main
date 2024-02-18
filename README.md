@@ -38,7 +38,7 @@ To run this application locally on your system, follow these steps:
 
 5. Open your web browser and navigate to http://localhost:3000 to view the application.
 
-##⭐ Star the Repository
+## ⭐ Star the Repository
 If you find this project helpful or interesting, show your support by starring the repository on GitHub. Your feedback and encouragement keep the project thriving. Thank you for your support! 🌟
 
 
